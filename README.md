@@ -14,6 +14,7 @@ Working hours: Monday-Saturday 06:00—22:00, Sunday 10:00—20:00.
 
   The data shows: stocking, sales, sales statistics, characteristics of products sold from January 2018 - December 2018.
 All currency amounts are in PLN.
+
 Firstly I started from cleaning data in python. I had 3 csv files with different data:
 
 - Daily sales, contains columns: date of sale, gross sale, net purchase, margin
