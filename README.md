@@ -1,6 +1,4 @@
-# Cleaning-data-for-Supermarket-annual-analysis
-Cleaning data for 2018 of sales, purchases, taxes and margin from local supermarket in Poland
-
+# Supermarket sales annually report 
 
 About the store:
 Store was open in 2009 and is located in Poland. The shop area is 120m2. It offers general food-and basic chemistry, hygienic articles.
@@ -16,7 +14,7 @@ Working hours: Monday-Saturday 06:00—22:00, Sunday 10:00—20:00.
 
   The data shows: stocking, sales, sales statistics, characteristics of products sold from January 2018 - December 2018.
 All currency amounts are in PLN.
-First I started from cleaning data in python. I had 3 csv files with different data:
+Firstly I started from cleaning data in python. I had 3 csv files with different data:
 
 - Daily sales, contains columns: date of sale, gross sale, net purchase, margin
 - Monthly sales,  contains columns: month, code, category, product name, quantity sold, price of purchase, 
