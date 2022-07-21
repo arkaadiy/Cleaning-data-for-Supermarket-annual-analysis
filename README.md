@@ -25,11 +25,8 @@ Firstly I started from cleaning data in python. I had 3 csv files with different
 After a long and diligent data cleaning and preparing process, I exported all final dataframes as new csv files.
 Then I imported clean data to Power BI and made a vizualization: 
 
-https://shorturl.at/EJ368
+https://app.powerbi.com/view?r=eyJrIjoiNTkzOTA3MmEtMmY5Zi00NmQwLThhYTItMTYzZTM2OGViZDk0IiwidCI6Ijc0MzBlN2YyLWM1N2ItNGI1OC05YzQ5LTk1NzliNDhkZmRkNSIsImMiOjl9
+
 1st page is representing an annual financial sales report with charts by category, month and weekday
-
-
-
-https://shorturl.at/dksyH
 2nd page has a detailed report of products sold, prices and costs, margins, stock leftovers
 
